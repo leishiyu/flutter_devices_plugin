@@ -1,0 +1,2 @@
+rootProject.name = 'flutter_devices_plugin'
+include ':flutter_devices_plugin'
